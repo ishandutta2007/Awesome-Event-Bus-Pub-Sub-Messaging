@@ -84,11 +84,11 @@ The table below catalogs premier hosted pub/sub and event bus services, sorted i
 
 ## 💻 Open-Source GitHub Projects
 
-The following self-hosted and open-source messaging solutions are sorted in **descending order by GitHub star count**. Each project includes a star badge linking directly to its stargazers page.
+The following self-hosted and open-source messaging solutions are sorted in **descending order by GitHub Stars_Count**. Each project includes a Stars_Badge linking directly to its stargazers page.
 
 ---
 
-### 1. [Redis](https://github.com/redis/redis) [![GitHub stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers)
+### 1. [Redis](https://github.com/redis/redis) [![GitHub_Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers)
 
 - **Description:** In-memory data store providing high-performance pub/sub channels and **Redis Streams** for log-based append-only messaging with consumer groups, message IDs, and pending entries tracking.
 - **License:** RSALv2 / SSPLv1
@@ -99,7 +99,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 2. [Apache Kafka](https://github.com/apache/kafka) [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
+### 2. [Apache Kafka](https://github.com/apache/kafka) [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
 
 - **Description:** Industry-standard distributed event streaming platform built for high-throughput, fault-tolerant, durable log-based messaging across microservices and analytical systems.
 - **License:** Apache-2.0
@@ -110,7 +110,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 3. [Dapr](https://github.com/dapr/dapr) [![GitHub stars](https://img.shields.io/github/stars/dapr/dapr?style=social&color=white)](https://github.com/dapr/dapr/stargazers)
+### 3. [Dapr](https://github.com/dapr/dapr) [![GitHub_Stars](https://img.shields.io/github/stars/dapr/dapr?style=social&color=white)](https://github.com/dapr/dapr/stargazers)
 
 - **Description:** Distributed Application Runtime providing pluggable, language-agnostic pub/sub abstractions and event-driven communication building blocks over HTTP and gRPC.
 - **License:** Apache-2.0
@@ -121,7 +121,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 4. [Apache RocketMQ](https://github.com/apache/rocketmq) [![GitHub stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers)
+### 4. [Apache RocketMQ](https://github.com/apache/rocketmq) [![GitHub_Stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers)
 
 - **Description:** Cloud-native distributed messaging and streaming platform designed for ultra-low latency, financial-grade transactional messaging, and massive scheduling.
 - **License:** Apache-2.0
@@ -132,7 +132,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 5. [NATS Server](https://github.com/nats-io/nats-server) [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)
+### 5. [NATS Server](https://github.com/nats-io/nats-server) [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)
 
 - **Description:** Ultra-fast, lightweight cloud-native messaging system written in Go, supporting pub/sub, request-reply, and distributed persistence.
 - **License:** Apache-2.0
@@ -143,7 +143,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 6. [EMQX](https://github.com/emqx/emqx) [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
+### 6. [EMQX](https://github.com/emqx/emqx) [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
 
 - **Description:** Massive-scale distributed MQTT broker engineered in Erlang/OTP for IoT, industrial automation, and connected vehicle event streaming.
 - **License:** Apache-2.0
@@ -154,7 +154,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 7. [Apache Pulsar](https://github.com/apache/pulsar) [![GitHub stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)
+### 7. [Apache Pulsar](https://github.com/apache/pulsar) [![GitHub_Stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)
 
 - **Description:** Multi-tenant, high-performance distributed pub/sub messaging and event streaming engine featuring decoupled compute and storage architecture.
 - **License:** Apache-2.0
@@ -165,7 +165,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 8. [RabbitMQ Server](https://github.com/rabbitmq/rabbitmq-server) [![GitHub stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)
+### 8. [RabbitMQ Server](https://github.com/rabbitmq/rabbitmq-server) [![GitHub_Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)
 
 - **Description:** The most widely deployed open-source multi-protocol message broker, providing rich routing topologies, quorum queues, and streaming engine capabilities.
 - **License:** MPL-2.0
@@ -176,7 +176,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 9. [Redpanda](https://github.com/redpanda-data/redpanda) [![GitHub stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers)
+### 9. [Redpanda](https://github.com/redpanda-data/redpanda) [![GitHub_Stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers)
 
 - **Description:** Modern, C++ Seastar-based Kafka API-compatible event streaming platform engineered for zero JVM dependencies, sub-millisecond latencies, and hardware-efficient throughput.
 - **License:** BSL 1.1 / Apache-2.0 (core components)
@@ -187,7 +187,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 10. [Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto) [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)
+### 10. [Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto) [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)
 
 - **Description:** Lightweight open-source message broker implementing MQTT versions 5.0, 3.1.1, and 3.1, suitable for low-power microcontrollers to enterprise edge nodes.
 - **License:** EPL-2.0 / EDL-1.0
@@ -198,7 +198,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 11. [ZeroMQ (libzmq)](https://github.com/zeromq/libzmq) [![GitHub stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers)
+### 11. [ZeroMQ (libzmq)](https://github.com/zeromq/libzmq) [![GitHub_Stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers)
 
 - **Description:** High-performance asynchronous messaging concurrency library carrying messages across in-process, IPC, TCP, TIPC, and PGM multicast.
 - **License:** MPL-2.0
@@ -209,7 +209,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 12. [Centrifugo](https://github.com/centrifugal/centrifugo) [![GitHub stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)
+### 12. [Centrifugo](https://github.com/centrifugal/centrifugo) [![GitHub_Stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)
 
 - **Description:** Scalable real-time messaging server in a language-agnostic way, serving as an open-source alternative to Pusher, Ably, and PubNub.
 - **License:** Apache-2.0
@@ -220,7 +220,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 13. [Watermill](https://github.com/ThreeDotsLabs/watermill) [![GitHub stars](https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social&color=white)](https://github.com/ThreeDotsLabs/watermill/stargazers)
+### 13. [Watermill](https://github.com/ThreeDotsLabs/watermill) [![GitHub_Stars](https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social&color=white)](https://github.com/ThreeDotsLabs/watermill/stargazers)
 
 - **Description:** Powerful Go library for building event-driven applications with clean architectural patterns, CQRS, and unified message abstractions.
 - **License:** MIT
@@ -231,7 +231,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 14. [MQTT.js](https://github.com/mqttjs/MQTT.js) [![GitHub stars](https://img.shields.io/github/stars/mqttjs/MQTT.js?style=social&color=white)](https://github.com/mqttjs/MQTT.js/stargazers)
+### 14. [MQTT.js](https://github.com/mqttjs/MQTT.js) [![GitHub_Stars](https://img.shields.io/github/stars/mqttjs/MQTT.js?style=social&color=white)](https://github.com/mqttjs/MQTT.js/stargazers)
 
 - **Description:** Complete client library for the MQTT protocol written in JavaScript/TypeScript for Node.js and modern browser runtimes.
 - **License:** MIT
@@ -242,7 +242,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 15. [Soketi](https://github.com/soketi/soketi) [![GitHub stars](https://img.shields.io/github/stars/soketi/soketi?style=social&color=white)](https://github.com/soketi/soketi/stargazers)
+### 15. [Soketi](https://github.com/soketi/soketi) [![GitHub_Stars](https://img.shields.io/github/stars/soketi/soketi?style=social&color=white)](https://github.com/soketi/soketi/stargazers)
 
 - **Description:** Next-generation, Pusher-compatible open-source WebSocket server built with Node.js and C/C++ uWebSockets bindings for rapid horizontal scaling.
 - **License:** MIT
@@ -253,7 +253,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 16. [EventBus (Go)](https://github.com/asaskevich/EventBus) [![GitHub stars](https://img.shields.io/github/stars/asaskevich/EventBus?style=social&color=white)](https://github.com/asaskevich/EventBus/stargazers)
+### 16. [EventBus (Go)](https://github.com/asaskevich/EventBus) [![GitHub_Stars](https://img.shields.io/github/stars/asaskevich/EventBus?style=social&color=white)](https://github.com/asaskevich/EventBus/stargazers)
 
 - **Description:** Lightweight in-process event bus library for Go applications, supporting synchronous and asynchronous decoupled event handling.
 - **License:** MIT
@@ -264,7 +264,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 17. [Outpost (Hookdeck)](https://github.com/hookdeck/outpost) [![GitHub stars](https://img.shields.io/github/stars/hookdeck/outpost?style=social&color=white)](https://github.com/hookdeck/outpost/stargazers)
+### 17. [Outpost (Hookdeck)](https://github.com/hookdeck/outpost) [![GitHub_Stars](https://img.shields.io/github/stars/hookdeck/outpost?style=social&color=white)](https://github.com/hookdeck/outpost/stargazers)
 
 - **Description:** Self-hostable outbound webhooks and event distribution infrastructure delivering reliable at-least-once message pushes to customer destinations.
 - **License:** Apache-2.0
@@ -275,7 +275,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 18. [Ripple](https://github.com/madisoheib/Ripple) [![GitHub stars](https://img.shields.io/github/stars/madisoheib/Ripple?style=social&color=white)](https://github.com/madisoheib/Ripple/stargazers)
+### 18. [Ripple](https://github.com/madisoheib/Ripple) [![GitHub_Stars](https://img.shields.io/github/stars/madisoheib/Ripple?style=social&color=white)](https://github.com/madisoheib/Ripple/stargazers)
 
 - **Description:** Self-hosted, Pusher-compatible WebSocket server compiled as a single static Rust binary with multi-threaded concurrency.
 - **License:** MIT
@@ -286,7 +286,7 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ---
 
-### 19. [Event (Go Library)](https://github.com/rbaliyan/event) [![GitHub stars](https://img.shields.io/github/stars/rbaliyan/event?style=social&color=white)](https://github.com/rbaliyan/event/stargazers)
+### 19. [Event (Go Library)](https://github.com/rbaliyan/event) [![GitHub_Stars](https://img.shields.io/github/stars/rbaliyan/event?style=social&color=white)](https://github.com/rbaliyan/event/stargazers)
 
 - **Description:** Resilient Go event bus library providing production-grade reliability primitives for event-driven systems.
 - **License:** MIT
@@ -347,7 +347,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, objective,
 2. Create a new branch: `git checkout -b feature/add-new-tool`.
 3. Update `README.md`:
    - For **SaaS**: Add entry to the table with company valuation/revenue, exact starting pricing, and exact free tier/trial limits. Maintain descending sort by company scale.
-   - For **Open-Source**: Add entry with official repository URL, star count badge (`style=social&color=white`) linking to its stargazers page, license, and key capabilities. Maintain descending sort by star count.
+   - For **Open-Source**: Add entry with official repository URL, Stars_Count badge (`style=social&color=white`) linking to its stargazers page, license, and key capabilities. Maintain descending sort by Stars_Count.
 4. Format descriptions cleanly and keep claims fact-based.
 5. Submit a **Pull Request** with a descriptive summary of your changes.
 

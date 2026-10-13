@@ -49,6 +49,7 @@ Whether you are designing decoupled microservices, orchestrating transactional o
     - [19. Event (Go Library)](#19-event-go-library-)
   - [🧩 Architectural Taxonomy & Comparison](#-architectural-taxonomy--comparison)
   - [⭐ Star History](#-star-history)
+  - [💖 Support & Sponsor](#-support--sponsor)
   - [🤝 How to Contribute](#-how-to-contribute)
   - [🛡️ Disclaimer & Architectural Considerations](#️-disclaimer--architectural-considerations)
 
@@ -311,7 +312,30 @@ The following self-hosted and open-source messaging solutions are sorted in **de
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Event-Bus-Pub-Sub-Messaging&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Event-Bus-Pub-Sub-Messaging&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Event-Bus-Pub-Sub-Messaging&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Event-Bus-Pub-Sub-Messaging&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for exploring and utilizing **Awesome Event Bus & Pub/Sub Messaging**! 🚀
+
+Building and curating up-to-date architectural benchmarks, price comparisons, and ecosystem directories requires continuous research and ongoing maintenance. If this repository helped you evaluate solutions, build distributed systems, or saved you time:
+
+- ⭐ **Star this repository** to support discoverability across GitHub.
+- 🍴 **Fork and contribute** your favorite messaging tools, architectural patterns, and updates.
+- 📢 **Share it** with your platform engineering team, architects, and community.
+- ☕ **Support ongoing maintenance**: You can buy a coffee or sponsor this project directly on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
